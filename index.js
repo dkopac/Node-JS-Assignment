@@ -16,10 +16,50 @@ const questions = [
     message: "Enter Project description",
   },
   {
+    type: "input",
+    name: "installation",
+    message: "How would someone install this application?",
+  },
+  {
+    type: "input",
+    name: "usage",
+    message: "Please Provide what this application will be used for:",
+  },
+  {
+    type: "input",
+    name: "Contributing",
+    message: "How Can Others Contribute to this repo?",
+  },
+  {
+    type: "input",
+    name: "testing",
+    message: "Insert testing instructions here:",
+  },
+  {
     type: "list",
     name: "badge",
     message: "Please select option below",
     choices: ["MIT", "Apache", "Mozilla", "IBM", "None"],
+  },
+  {
+    type: "input",
+    name: "Github Username",
+    message: "Please enter your GitHub username:",
+  },
+  {
+    type: "input",
+    name: "Email Address",
+    message: "Please enter your email address:",
+  },
+  {
+    type: "input",
+    name: "Future Development",
+    message: "What are your plans for Future Development?",
+  },
+  {
+    type: "input",
+    name: "Credits",
+    message: "List all collaborators, tutorials, and or third-party assets",
   },
 ];
 

@@ -29,6 +29,25 @@ ${data.description}
 - [Usage](#Usage)
 - [Contributing](#title)
 - [Tests](#Tests)
+- [License](#License)
+- [Questions](#Questions)
+- [Future Development](#Future-Development)
+- [Credits](#Credits)
+
+## Installation
+${data.installation}
+
+## Usage
+${data.usage}
+
+## Contributing
+${data.Contributing}
+
+## Tests
+${data.tests}
+
+## License
+${data.license}
 `;
 }
 
