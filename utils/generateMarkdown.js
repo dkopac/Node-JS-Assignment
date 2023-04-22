@@ -25,6 +25,10 @@ ${data.description}
 ## Table Of Contents
 - [Title](#title)
 - [Description](#Description)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Contributing](#title)
+- [Tests](#Tests)
 `;
 }
 

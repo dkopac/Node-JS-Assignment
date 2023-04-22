@@ -8,12 +8,12 @@ const questions = [
   {
     type: "input",
     name: "title",
-    message: "Enter README title",
+    message: "Enter Project Title",
   },
   {
     type: "input",
     name: "description",
-    message: "Enter README description",
+    message: "Enter Project description",
   },
   {
     type: "list",
