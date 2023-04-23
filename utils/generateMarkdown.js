@@ -46,9 +46,6 @@ ${data.Contributing}
 ## Testing
 ${data.testing}
 
-## License
-${data.license}
-
 ${renderLicenseSection(data.link)}
 
 ## Questions
