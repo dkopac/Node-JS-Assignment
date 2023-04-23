@@ -1,8 +1,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# Markdown README Generator
+# Markdown Generator
 
 ## Description
-How to create a Markdon Generator
+How to make a Markdown Generator using node
 
 ## Table Of Contents
 - [Title](#title)
@@ -13,25 +13,22 @@ How to create a Markdon Generator
 - [Tests](#Tests)
 - [License](#License)
 - [Questions](#Questions)
-- [Future Development](#Development)
-- [Credits](#Credits)
+- [Development](#Future Development)
+- [credits](#Credits)
 
 ## Installation
-NodeJS has to be installed in order to create this
+by downloading Nodejs online
 
 ## Usage
-Making Markdown Generators
+Helping to create a backend portion of a webpage
 
 ## Contributing
-ask to be a collaborator or contact the user
+ask to be a collaborater on GitHub or contact the repo holder
 
 ## Testing
 NONE
 
-## License
-undefined
-
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Questions
 Please feel free to contact me at undefined or contact me on Github at [undefined](https://github.com/undefined).
