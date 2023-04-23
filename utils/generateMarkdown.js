@@ -31,7 +31,7 @@ ${data.description}
 - [Tests](#Tests)
 - [License](#License)
 - [Questions](#Questions)
-- [Future Development](#Future-Development)
+- [Future Development](#Development)
 - [Credits](#Credits)
 
 ## Installation
@@ -43,11 +43,24 @@ ${data.usage}
 ## Contributing
 ${data.Contributing}
 
-## Tests
-${data.tests}
+## Testing
+${data.testing}
 
 ## License
 ${data.license}
+
+${renderLicenseSection(data.link)}
+
+## Questions
+Please feel free to contact me at ${data.email} or contact me on Github at [${
+    data.username
+  }](https://github.com/${data.username}).
+
+## Future Development
+${data.development}
+
+## Credits
+${data.credits}
 `;
 }
 
