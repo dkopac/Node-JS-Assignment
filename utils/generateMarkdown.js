@@ -31,8 +31,8 @@ ${data.description}
 - [Tests](#Tests)
 - [License](#License)
 - [Questions](#Questions)
-- [Future Development](#Development)
-- [Credits](#Credits)
+- [Development](#Future Development)
+- [credits](#Credits)
 
 ## Installation
 ${data.installation}
@@ -46,7 +46,7 @@ ${data.Contributing}
 ## Testing
 ${data.testing}
 
-${renderLicenseSection(data.link)}
+${renderLicenseSection(data.badge)}
 
 ## Questions
 Please feel free to contact me at ${data.email} or contact me on Github at [${

@@ -53,7 +53,7 @@ const questions = [
   },
   {
     type: "input",
-    name: "Future Development",
+    name: "Development",
     message: "What are your plans for Future Development?",
   },
   {
